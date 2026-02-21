@@ -1,3 +1,3 @@
 # first-project
-My first GitHub repository.
+My first Git repository.
 Author - Arzoo Dahiya
