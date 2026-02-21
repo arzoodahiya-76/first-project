@@ -1,2 +1,2 @@
 # first-project
-My first GitHub repository as a CSE student.
+My first GitHub repository.
